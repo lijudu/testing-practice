@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lijudu/testing-practice#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
     "webpack-cli": "^5.0.1"
   }
 }
