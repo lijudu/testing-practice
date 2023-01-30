@@ -1,5 +1,5 @@
 function caesar(str, num) {
-    // modulo 26 because 26 letters in alphabet 
+    // num modulo 26 because 26 letters in alphabet, times by shift you want (num)
     num = num % 26; 
     // convert given string to lowercase
     var lowerCaseStr = str.toLowerCase();
